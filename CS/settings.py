@@ -82,7 +82,7 @@ DATABASES = {
         'HOST': 'localhost',
         'PORT': '3306',   # Port MySQL is running on
         'OPTIONS': {
-            'unix_socket': '/opt/lampp/var/mysql/mysql.sock', #for fucking linux using lampp
+            'unix_socket': '/opt/lampp/var/mysql/mysql.sock', #for linux using lampp
         },
     }
 }
